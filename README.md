@@ -1,6 +1,6 @@
 # MedIS Attack
 1. The implementation of the paper [Exploring the feasibility of adversarial attacks on medical image segmentation](https://link.springer.com/article/10.1007/s11042-023-15575-8), published in [Multimedia Tools and Applications](https://www.springer.com/journal/11042) is available at <https://github.com/SnehaShukla937/MEDIS_ATTACK>.
-2. You can contact me at <shukla.sneha825@gmail.com> to resolve your queries regarding our paper and implementation.
+2. You can contact us at <shukla.sneha825@gmail.com> to resolve your queries regarding our paper and implementation.
 ## Citation
 If you find this work helpful for your project or research, please cite this paper as,
 ```
